@@ -23,10 +23,11 @@ return [
     | Server URL
     |--------------------------------------------------------------------------
     |
-    | Unmark this line to use self-hosted parse server.
+    | Unmark these two lines to use self-hosted parse server.
     |
     */
-    //'serverURL' => 'https://api.parse.com/1',
+    //'serverURL' => 'https://api.parse.com',
+    //'mountPoint' => '1',
 
     /*
     |--------------------------------------------------------------------------
